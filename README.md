@@ -6,4 +6,4 @@ i create some VideoGames, own Server (ServerSocket in Java), own authlib, websit
 
 I use Spigot (Paper), Bungeecord, Velocity !
 
-I use MongoDb and Redis for databases
+I use MongoDb and Redis as database
